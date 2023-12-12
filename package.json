@@ -9,8 +9,8 @@
     "src",
     "LICENSE"
   ],
-  "main": "dist/index.js",
-  "module": "dist/index.esm.js",
+  "main": "src/index.ts",
+  "module": "src/index.ts",
   "jsnext:main": "dist/index.esm.js",
   "browser:min": "dist/index.umd.min.js",
   "browser": "dist/index.umd.js",
